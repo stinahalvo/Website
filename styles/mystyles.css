@@ -1,0 +1,97 @@
+h4{
+    text-align: right;
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: silver;
+    
+}
+
+em{
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(3, 3, 2, 0.705)
+}
+
+h2{
+    font-size: large;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    color: rgb(204, 132, 165);
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:rgb(206, 133, 181);
+    background-color: ivory    
+}
+
+
+h4 {
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+    font-family: serif;
+    color: rgb(14, 13, 12);
+}
+
+
+li{
+    font-size:14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a{
+    color:cadetblue;
+    text-decoration: none ;
+}
+
+a:hover {
+    text-decoration:underline;
+}
+
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.homebg{
+    background-image: url('images/background.jpg');
+    background-position: bottom right;
+    background-repeat: repeat;
+}
+
+.box1{
+    border-width: 1px;
+    border-style: solid
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+
+    color: rgb(116, 102, 102);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50;
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50;
+
+}
